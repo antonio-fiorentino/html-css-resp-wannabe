@@ -74,26 +74,25 @@ img {
 
 
 @media screen and (max-width: 420px){
-  body{
-  }
   .row>.left{
     max-width: 100%;
     margin: auto 50px;
-    text-align: center;
-
+    padding: 20px 0px 0px 50px;
   }
   .row>.right{
     max-width: 100%;
     margin: auto 50px;
-    text-align: center;
+    padding: 20px;
   }
   .row>.central{
     max-width: 100%;
     margin: auto 50px;
-    text-align: center;
+    padding: 20px;
   }
   .row{
     width: 100%;
+    margin:auto;
+    text-align: center;
   }
 
 }
